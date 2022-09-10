@@ -3,5 +3,7 @@ public class Welcome {
         System.out.println("Welcome\nto\nJava\nprogram!");
         System.out.println("\" Welcom Again \"");
         System.out.println("\\ Welcom");
+        System.out.println("\rWelcom");
+        System.out.println("\tWelcom");
     }
 }
